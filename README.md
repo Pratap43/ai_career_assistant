@@ -33,16 +33,7 @@ An AI-powered web application that analyzes resumes and provides personalized ca
 
 ---
 
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ai-career-assistant.git
-cd ai-career-assistant
-pip install -r requirements.txt
-streamlit run app.py
-
-
+ 
 🎯 How It Works
 1.Upload your resume (PDF)
 2.Enter job description
@@ -59,3 +50,11 @@ AI suggestions
 🤝 Contributing
 
 Feel free to fork this repo and improve it!
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/ai-career-assistant.git
+cd ai-career-assistant
+pip install -r requirements.txt
+streamlit run app.py
+
