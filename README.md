@@ -34,7 +34,7 @@ An AI-powered web application that analyzes resumes and provides personalized ca
 ---
 
  
-🎯 How It Works
+## 🎯 How It Works
 1.Upload your resume (PDF)
 2.Enter job description
 Get:
@@ -42,12 +42,12 @@ Match score
 Missing skills
 AI suggestions
 3.Downloadable report
-💡 Future Improvements
+## 💡 Future Improvements
 1.Add database integration
 2.Improve AI model accuracy
 3.Add multi-user dashboard
 4.Enhance PDF design
-🤝 Contributing
+## 🤝 Contributing
 
 Feel free to fork this repo and improve it!
 ## ⚙️ Installation
